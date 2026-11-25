@@ -1,0 +1,14 @@
+h1.chuhongdep {
+    color:hotpink;
+    font-size: 28pt;
+    font-style: italic;
+}
+div.blockRed{
+    background-color: palevioletred;
+    height: 50px;
+}
+p{
+    color:antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22pt;
+}
